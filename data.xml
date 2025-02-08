@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <item>
+    <title>Item 1</title>
+    <description>This is the first item in the XML data.</description>
+  </item>
+  <item>
+    <title>Item 2</title>
+    <description>This is the second item in the XML data.</description>
+  </item>
+  <item>
+    <title>Item 3</title>
+    <description>This is the third item in the XML data.</description>
+  </item>
+</data>
